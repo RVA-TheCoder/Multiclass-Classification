@@ -1,1 +1,15 @@
 Multi-class Classification : Iris Dataset
+
+STAGE I :  
+(a)	Imputer – missing value (strategy = median)
+(b)	No standard scaling
+
+STAGE II :  
+(a)	Imputer – missing value (strategy = median)
+(b)	Standard scaling
+(c)	Feature Engineering
+
+STAGE III :  
+(a)	Imputer – missing value (strategy = median)
+(b)	Standard scaling
+
